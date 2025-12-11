@@ -43,4 +43,4 @@ You can view the detailed project presentation here:
 [👉 Download Project Presentation (PDF/PPTX)](./Sunum_Dosyamin_Adi.pdf)
 
 ---
-*Created by [Adın Soyadın] - 2025*
+*Created by [CEREN ÖZARSLAN] - 2025*
