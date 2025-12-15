@@ -27,7 +27,7 @@ Welcome to my portfolio! Here you will find my data analysis and machine learnin
     * **KNN (k=15):** %69.17 (Competitive)
 * **🔍 Key Insight:** Feature Importance analysis revealed that **"Vote Count"** and **"Animation Genre"** are the strongest indicators of a show's success.
 * **[👉 View Code](./TV_Shows_Classification_Project_2025.ipynb)**
-* **[👉 Download Project Presentation (PDF)](./Sunum_Dosyamin_Adi.pdf)**
+* **[👉 Download Project Presentation (PDF)](./file:///D:/%C4%B0ndirilenler/GLOBAL%20TV%20SHOWS%20(1).pdf)**
 
 ### 2️⃣ Spotify Popularity Prediction
 * **Goal:** Predict song popularity based on audio features like *danceability, energy, and acousticness*.
